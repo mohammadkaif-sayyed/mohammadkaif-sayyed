@@ -73,7 +73,7 @@ A comprehensive healthcare management system for efficiently tracking and managi
   <img src="https://img.icons8.com/color/48/json.png" alt="JSON" width="40">
   <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="40">
   <img src="https://img.icons8.com/color/48/c-plus-plus.png" alt="C++" width="40">
-  <img src="https://img.icons8.com/color/48/postman.png" alt="Postman" width="40">
+  <img src="https://img.icons8.com/color/48/postman-api-testing.png" alt="Postman API Testing" width="40">
 </div>
 
 ---
@@ -85,10 +85,6 @@ A comprehensive healthcare management system for efficiently tracking and managi
 ---
 
 ## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadkaif-sayyed&show_icons=true&theme=radical&hide_border=true&hide=title,prs&count_private=true" alt="GitHub Stats" width="60%" height="250">
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadkaif-sayyed&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" width="100%" height="250">
