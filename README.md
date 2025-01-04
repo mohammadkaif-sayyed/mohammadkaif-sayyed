@@ -11,6 +11,21 @@
 
 ---
 
+## 📫 Contact Me  
+<div align="center">
+  <a href="mailto:mohd.k.sayyed@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-kaif-sayyed-1b6aba219">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://mohammadkaif-sayyed.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+  </a>
+</div>
+
+---
+
 ## 🚀 About Me  
 I’m a passionate **Full Stack Developer** focused on creating scalable web applications and AI-powered tools. I specialize in **Generative AI** and enjoy building innovative solutions using the latest technologies.
 
@@ -25,7 +40,6 @@ A generative AI-based tool that leverages advanced machine learning models to cr
   <img src="https://img.icons8.com/color/48/react-native.png" alt="React.js" width="40">
   <img src="https://img.icons8.com/color/48/python.png" alt="Python" width="40">
   <img src="https://img.icons8.com/ios-filled/50/flask.png" alt="Flask" width="40">
-  <img src="https://img.icons8.com/color/48/generative-ai.png" alt="Generative AI" width="40">
 </div>
 
 ---
@@ -60,7 +74,6 @@ A comprehensive healthcare management system for efficiently tracking and managi
   <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="40">
   <img src="https://img.icons8.com/color/48/c-plus-plus.png" alt="C++" width="40">
   <img src="https://img.icons8.com/color/48/postman.png" alt="Postman" width="40">
-  <img src="https://img.icons8.com/color/48/netlify.png" alt="Netlify" width="40">
 </div>
 
 ---
@@ -74,7 +87,7 @@ A comprehensive healthcare management system for efficiently tracking and managi
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadkaif-sayyed&show_icons=true&theme=radical&hide_border=true&hide=title,prs&count_private=true" alt="GitHub Stats" width="100%" height="250">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadkaif-sayyed&show_icons=true&theme=radical&hide_border=true&hide=title,prs&count_private=true" alt="GitHub Stats" width="60%" height="250">
 </p>
 
 <p align="center">
@@ -88,18 +101,3 @@ A comprehensive healthcare management system for efficiently tracking and managi
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadkaif-sayyed&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" height="150">
 </p>
-
----
-
-## 📫 Contact Me  
-<div align="center">
-  <a href="mailto:mohd.k.sayyed@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/mohammad-kaif-sayyed-1b6aba219">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://mohammadkaif-sayyed.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
-  </a>
-</div>
