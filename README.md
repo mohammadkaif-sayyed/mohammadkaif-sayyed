@@ -56,7 +56,11 @@ A comprehensive healthcare management system for efficiently tracking and managi
   <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="40">
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="40">
   <img src="https://img.icons8.com/color/48/npm.png" alt="NPM" width="40">
-  <img src="https://img.icons8.com/color/48/generative-ai.png" alt="Generative AI" width="40">
+  <img src="https://img.icons8.com/color/48/json.png" alt="JSON" width="40">
+  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="40">
+  <img src="https://img.icons8.com/color/48/c-plus-plus.png" alt="C++" width="40">
+  <img src="https://img.icons8.com/color/48/postman.png" alt="Postman" width="40">
+  <img src="https://img.icons8.com/color/48/netlify.png" alt="Netlify" width="40">
 </div>
 
 ---
