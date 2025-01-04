@@ -22,7 +22,10 @@ I’m a passionate **Full Stack Developer** with expertise in building **scalabl
 A generative AI-based tool for creating high-quality images.  
 **Tech Stack**: Python, OpenAI API, Flask, React.js  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,flask,python,openai" alt="Tech Stack Icons">
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React.js" width="40">
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python" width="40">
+  <img src="https://img.icons8.com/ios-filled/50/flask.png" alt="Flask" width="40">
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/external-openai-artificial-intelligence-research-laboratory-logo-shadow-tal-revivo.png" alt="OpenAI" width="40">
 </div>
 
 ---
@@ -31,14 +34,29 @@ A generative AI-based tool for creating high-quality images.
 A web-based healthcare management system for tracking and managing patient data efficiently.  
 **Tech Stack**: MERN Stack (MongoDB, Express.js, React.js, Node.js), MySQL  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql" alt="Tech Stack Icons">
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React.js" width="40">
+  <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" width="40">
+  <img src="https://img.icons8.com/color/48/express-js.png" alt="Express.js" width="40">
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="40">
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="40">
 </div>
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,java,react,nodejs,express,mongodb,mysql,git,github,docker,aws" alt="Tech Stack Icons">
+  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" width="40">
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40">
+  <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" width="40">
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="40">
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" width="40">
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React.js" width="40">
+  <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" width="40">
+  <img src="https://img.icons8.com/color/48/express-js.png" alt="Express.js" width="40">
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="40">
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="40">
+  <img src="https://img.icons8.com/color/48/npm.png" alt="NPM" width="40">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-openai-artificial-intelligence-research-laboratory-logo-tal-revivo.png" alt="OpenAI" width="40">
 </div>
 
 ---
@@ -52,7 +70,7 @@ A web-based healthcare management system for tracking and managing patient data 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadkaif-sayyed&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadkaif-sayyed&show_icons=true&theme=radical&hide_border=true" alt="Mohammad Kaif's GitHub Status" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadkaif-sayyed&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
 </p>
 
