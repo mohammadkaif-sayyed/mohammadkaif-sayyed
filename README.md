@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Full+Stack+Developer;Generative+AI+Explorer;Cloud+Computing+Learner" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Developer;Generative+AI+Explorer;Cloud+Computing+Learner;Always+Learning+New+Technologies" alt="Typing Animation">
 </p>
 
 ---
@@ -22,9 +22,7 @@ I’m a passionate **Full Stack Developer** with expertise in building **scalabl
 A generative AI-based tool for creating high-quality images.  
 **Tech Stack**: Python, OpenAI API, Flask, React.js  
 <div align="left">
-  <img src="https://img.shields.io/badge/Frontend-React.js-blue?style=flat-square&logo=react">
-  <img src="https://img.shields.io/badge/Backend-Flask-lightgrey?style=flat-square&logo=flask">
-  <img src="https://img.shields.io/badge/AI-Generative-red?style=flat-square&logo=openai">
+  <img src="https://skillicons.dev/icons?i=react,flask,python,openai" alt="Tech Stack Icons">
 </div>
 
 ---
@@ -33,25 +31,14 @@ A generative AI-based tool for creating high-quality images.
 A web-based healthcare management system for tracking and managing patient data efficiently.  
 **Tech Stack**: MERN Stack (MongoDB, Express.js, React.js, Node.js), MySQL  
 <div align="left">
-  <img src="https://img.shields.io/badge/Frontend-React.js-blue?style=flat-square&logo=react">
-  <img src="https://img.shields.io/badge/Backend-Express.js-lightgreen?style=flat-square&logo=express">
-  <img src="https://img.shields.io/badge/Database-MySQL-brightgreen?style=flat-square&logo=mysql">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql" alt="Tech Stack Icons">
 </div>
 
 ---
 
 ## 💻 Tech Stack
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-Backend-orange?style=flat-square&logo=java">
-  <img src="https://img.shields.io/badge/HTML5-Frontend-red?style=flat-square&logo=html5">
-  <img src="https://img.shields.io/badge/CSS3-Frontend-blue?style=flat-square&logo=css3">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-Styling-blueviolet?style=flat-square&logo=tailwindcss">
-  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=flat-square&logo=node.js">
-  <img src="https://img.shields.io/badge/Express.js-Backend-lightgreen?style=flat-square&logo=express">
-  <img src="https://img.shields.io/badge/MongoDB-Database-brightgreen?style=flat-square&logo=mongodb">
-  <img src="https://img.shields.io/badge/MySQL-Database-blue?style=flat-square&logo=mysql">
-  <img src="https://img.shields.io/badge/NPM-Tool-red?style=flat-square&logo=npm">
-  <img src="https://img.shields.io/badge/OpenAI-Generative%20AI-black?style=flat-square&logo=openai">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,java,react,nodejs,express,mongodb,mysql,git,github,docker,aws" alt="Tech Stack Icons">
 </div>
 
 ---
@@ -62,8 +49,25 @@ A web-based healthcare management system for tracking and managing patient data 
 
 ---
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadkaif-sayyed&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadkaif-sayyed&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadkaif-sayyed&theme=radical&hide_border=true" alt="GitHub Streak" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammadkaif-sayyed&theme=radical&no-frame=true&column=6" alt="GitHub Trophies">
+</p>
+
+---
+
 ## 📫 Contact Me  
-<div align="left">
+<div align="center">
   <a href="mailto:mohd.k.sayyed@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
@@ -74,14 +78,3 @@ A web-based healthcare management system for tracking and managing patient data 
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
   </a>
 </div>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadkaif-sayyed&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadkaif-sayyed&layout=compact&theme=radical" alt="Top Languages" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadkaif-sayyed&theme=radical" alt="GitHub Streak" width="48%">
-</p>
