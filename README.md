@@ -15,44 +15,46 @@
 <div align="center">
   <a href="mailto:mohd.k.sayyed@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp; <!-- Adds space -->
   <a href="https://www.linkedin.com/in/mohammad-kaif-sayyed-1b6aba219">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp; <!-- Adds space -->
   <a href="https://mohammadkaif-sayyed.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
 </div>
 
 ---
 
 ## 🚀 About Me  
-I’m a passionate **Full Stack Developer** focused on creating scalable web applications and AI-powered tools. I specialize in **Generative AI** and enjoy building innovative solutions using the latest technologies.
+I’m a passionate **Full Stack Developer** with expertise in building **scalable web applications** and **AI-powered tools**. I thrive on creating innovative solutions using **Generative AI** and **OpenAI APIs**.
 
 ---
 
 ## 💼 Featured Projects  
 
 ### 🖼️ AI Image Generator  
-A generative AI-based tool that leverages advanced machine learning models to create high-quality images.  
-**Tech Stack**: Python, OpenAI API, React.js, JavaScript  
+A generative AI-based tool for creating high-quality images.  
+**Tech Stack**: Python, OpenAI API, JavaScript, React.js  
 <div align="left">
   <img src="https://img.icons8.com/color/48/react-native.png" alt="React.js" width="40">
   <img src="https://img.icons8.com/color/48/python.png" alt="Python" width="40">
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/external-openai-artificial-intelligence-research-laboratory-logo-shadow-tal-revivo.png" alt="OpenAI" width="40">
   <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="40">
 </div>
 
 ---
 
 ### 🏥 MediTrack Admin  
-A comprehensive healthcare management system for efficiently tracking and managing patient data.  
-**Tech Stack**: MERN Stack (MongoDB, Express.js, React.js, Node.js), MySQL  
+A web-based healthcare management system for tracking and managing patient data efficiently.  
+**Tech Stack**: MERN Stack (MongoDB, Express.js, React.js, Node.js), MySQL, JavaScript  
 <div align="left">
   <img src="https://img.icons8.com/color/48/react-native.png" alt="React.js" width="40">
   <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" width="40">
   <img src="https://img.icons8.com/color/48/express-js.png" alt="Express.js" width="40">
   <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="40">
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="40">
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="40">
 </div>
 
 ---
@@ -71,8 +73,7 @@ A comprehensive healthcare management system for efficiently tracking and managi
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="40">
   <img src="https://img.icons8.com/color/48/npm.png" alt="NPM" width="40">
   <img src="https://img.icons8.com/color/48/json.png" alt="JSON" width="40">
-  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="40">
-  <img src="https://img.icons8.com/color/48/c-plus-plus.png" alt="C++" width="40">
+  <img src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="C++" width="40">
 </div>
 
 ---
@@ -86,7 +87,8 @@ A comprehensive healthcare management system for efficiently tracking and managi
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadkaif-sayyed&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" width="100%" height="250">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadkaif-sayyed&show_icons=true&theme=radical&hide_border=true" alt="Mohammad Kaif's GitHub Stats" width="48%" height="250">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadkaif-sayyed&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" height="250">
 </p>
 
 <p align="center">
