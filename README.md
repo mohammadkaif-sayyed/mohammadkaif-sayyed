@@ -5,6 +5,10 @@
   <img src="https://img.shields.io/badge/Generative%20AI-Enthusiast-orange?style=for-the-badge" alt="Generative AI Enthusiast">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Full+Stack+Developer;Generative+AI+Explorer;Cloud+Computing+Learner" alt="Typing Animation">
+</p>
+
 ---
 
 ## 🚀 About Me  
@@ -53,8 +57,8 @@ A web-based healthcare management system for tracking and managing patient data 
 ---
 
 ## 🌱 Currently Learning  
-- Advanced React.js patterns  
-- AI model deployment using OpenAI APIs
+- **Generative AI model fine-tuning**  
+- **Cloud Computing platforms (AWS, Azure)**
 
 ---
 
@@ -76,4 +80,8 @@ A web-based healthcare management system for tracking and managing patient data 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammadkaif-sayyed&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadkaif-sayyed&layout=compact&theme=radical" alt="Top Languages" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadkaif-sayyed&theme=radical" alt="GitHub Streak" width="48%">
 </p>
