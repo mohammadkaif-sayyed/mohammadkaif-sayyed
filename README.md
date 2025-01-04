@@ -1,54 +1,58 @@
-<h1 align="center">Hi there, I'm <Your Name> 👋</h1>
+<h1 align="center">Hi there, I'm <Mohammad Kaif> 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-MERN%20Stack-blue?style=for-the-badge" alt="Full Stack Developer">
-  <img src="https://img.shields.io/badge/AI%20Enthusiast-Deep%20Learning-orange?style=for-the-badge" alt="AI Enthusiast">
+  <img src="https://img.shields.io/badge/Generative%20AI-Enthusiast-orange?style=for-the-badge" alt="Generative AI Enthusiast">
 </p>
 
 ---
 
 ### 🚀 About Me  
-I’m a passionate **Full Stack Developer** with expertise in building **scalable web applications** and **AI-powered tools**. My current focus is on developing innovative solutions in **AI and healthcare**.
+I’m a passionate **Full Stack Developer** with expertise in building **scalable web applications** and **AI-powered tools**. My current focus is on developing innovative solutions using **Generative AI** and **OpenAI APIs**.
 
 ---
 
 ### 💼 Featured Projects  
 
 #### 🖼️ AI Image Generator  
-A deep learning-based tool for generating high-quality images.  
-**Tech Stack**: Python, TensorFlow, Keras, Flask, React.js  
+A generative AI-based tool for creating high-quality images.  
+**Tech Stack**: Python, OpenAI API, Flask, React.js  
 <p align="left">
   <img src="https://img.shields.io/badge/Frontend-React.js-blue?style=flat-square&logo=react">
   <img src="https://img.shields.io/badge/Backend-Flask-lightgrey?style=flat-square&logo=flask">
-  <img src="https://img.shields.io/badge/AI-Deep%20Learning-red?style=flat-square&logo=tensorflow">
+  <img src="https://img.shields.io/badge/AI-Generative-red?style=flat-square&logo=openai">
 </p>
 
 #### 🏥 MediTrack Admin  
 A web-based healthcare management system for tracking and managing patient data efficiently.  
-**Tech Stack**: MERN Stack (MongoDB, Express.js, React.js, Node.js)  
+**Tech Stack**: MERN Stack (MongoDB, Express.js, React.js, Node.js), MySQL  
 <p align="left">
   <img src="https://img.shields.io/badge/Frontend-React.js-blue?style=flat-square&logo=react">
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=flat-square&logo=node.js">
-  <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=flat-square&logo=mongodb">
+  <img src="https://img.shields.io/badge/Backend-Express.js-lightgreen?style=flat-square&logo=express">
+  <img src="https://img.shields.io/badge/Database-MySQL-brightgreen?style=flat-square&logo=mysql">
 </p>
 
 ---
 
 ### 💻 Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript">
+  <img src="https://img.shields.io/badge/Java-Backend-orange?style=flat-square&logo=java">
+  <img src="https://img.shields.io/badge/HTML5-Frontend-red?style=flat-square&logo=html5">
+  <img src="https://img.shields.io/badge/CSS3-Frontend-blue?style=flat-square&logo=css3">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-Styling-blueviolet?style=flat-square&logo=tailwindcss">
   <img src="https://img.shields.io/badge/Node.js-Backend-green?style=flat-square&logo=node.js">
-  <img src="https://img.shields.io/badge/React.js-Frontend-blue?style=flat-square&logo=react">
+  <img src="https://img.shields.io/badge/Express.js-Backend-lightgreen?style=flat-square&logo=express">
   <img src="https://img.shields.io/badge/MongoDB-Database-brightgreen?style=flat-square&logo=mongodb">
-  <img src="https://img.shields.io/badge/Python-Deep%20Learning-orange?style=flat-square&logo=python">
-  <img src="https://img.shields.io/badge/scikit--learn-ML-blue?style=flat-square&logo=scikit-learn">
+  <img src="https://img.shields.io/badge/MySQL-Database-blue?style=flat-square&logo=mysql">
+  <img src="https://img.shields.io/badge/NPM-Tool-red?style=flat-square&logo=npm">
+  <img src="https://img.shields.io/badge/OpenAI-Generative%20AI-black?style=flat-square&logo=openai">
 </p>
 
 ---
 
 ### 🌱 Currently Learning  
 - Advanced React.js patterns  
-- AI model deployment strategies
+- AI model deployment using OpenAI APIs
 
 ---
 
