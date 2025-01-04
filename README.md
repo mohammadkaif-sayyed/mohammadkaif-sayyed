@@ -70,16 +70,16 @@ A web-based healthcare management system for tracking and managing patient data 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadkaif-sayyed&show_icons=true&theme=radical&hide_border=true" alt="Mohammad Kaif's GitHub Status" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadkaif-sayyed&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadkaif-sayyed&show_icons=true&theme=radical&hide_border=true" alt="Mohammad Kaif's GitHub Stats" width="48%" height="250">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadkaif-sayyed&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" height="250">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadkaif-sayyed&theme=radical&hide_border=true" alt="GitHub Streak" width="48%">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammadkaif-sayyed&theme=radical&no-frame=true&column=6" alt="GitHub Trophies" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammadkaif-sayyed&theme=radical&no-frame=true&column=6" alt="GitHub Trophies">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadkaif-sayyed&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" height="150">
 </p>
 
 ---
