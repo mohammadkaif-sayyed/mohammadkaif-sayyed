@@ -57,13 +57,6 @@ A web-based healthcare management system for tracking and managing patient data 
 ---
 
 ### 📫 Contact Me  
-- **Email**: [your-email@example.com](mailto:your-email@example.com)  
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&layout=compact&theme=radical" alt="Top Languages" width="48%">
-</p>
+- **Email**: [mohd.k.sayyed@gmail.com](mailto:mohd.k.sayyed@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/mohammadkaif](https://www.linkedin.com/in/mohammad-kaif-sayyed-1b6aba219)  
+- **Portfolio**: [mohammad-kaif.com](https://mohammadkaif-sayyed.netlify.app/)
