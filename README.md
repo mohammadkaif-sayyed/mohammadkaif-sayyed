@@ -35,11 +35,11 @@ I’m a passionate **Full Stack Developer** focused on creating scalable web app
 
 ### 🖼️ AI Image Generator  
 A generative AI-based tool that leverages advanced machine learning models to create high-quality images.  
-**Tech Stack**: Python, OpenAI API, Flask, React.js  
+**Tech Stack**: Python, OpenAI API, React.js, JavaScript  
 <div align="left">
   <img src="https://img.icons8.com/color/48/react-native.png" alt="React.js" width="40">
   <img src="https://img.icons8.com/color/48/python.png" alt="Python" width="40">
-  <img src="https://img.icons8.com/ios-filled/50/flask.png" alt="Flask" width="40">
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="40">
 </div>
 
 ---
@@ -73,7 +73,6 @@ A comprehensive healthcare management system for efficiently tracking and managi
   <img src="https://img.icons8.com/color/48/json.png" alt="JSON" width="40">
   <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="40">
   <img src="https://img.icons8.com/color/48/c-plus-plus.png" alt="C++" width="40">
-  <img src="https://img.icons8.com/color/48/postman-api-testing.png" alt="Postman API Testing" width="40">
 </div>
 
 ---
