@@ -35,11 +35,10 @@ I’m a passionate **Full Stack Developer** with expertise in building **scalabl
 
 ### 🖼️ AI Image Generator  
 A generative AI-based tool for creating high-quality images.  
-**Tech Stack**: Python, OpenAI API, JavaScript, React.js  
+**Tech Stack**: Python, JavaScript, React.js  
 <div align="left">
   <img src="https://img.icons8.com/color/48/react-native.png" alt="React.js" width="40">
   <img src="https://img.icons8.com/color/48/python.png" alt="Python" width="40">
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/external-openai-artificial-intelligence-research-laboratory-logo-shadow-tal-revivo.png" alt="OpenAI" width="40">
   <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="40">
 </div>
 
@@ -47,13 +46,12 @@ A generative AI-based tool for creating high-quality images.
 
 ### 🏥 MediTrack Admin  
 A web-based healthcare management system for tracking and managing patient data efficiently.  
-**Tech Stack**: MERN Stack (MongoDB, Express.js, React.js, Node.js), MySQL, JavaScript  
+**Tech Stack**: MERN Stack (MongoDB, Express.js, React.js, Node.js), JavaScript  
 <div align="left">
   <img src="https://img.icons8.com/color/48/react-native.png" alt="React.js" width="40">
   <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" width="40">
   <img src="https://img.icons8.com/color/48/express-js.png" alt="Express.js" width="40">
   <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="40">
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="40">
   <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="40">
 </div>
 
@@ -70,7 +68,6 @@ A web-based healthcare management system for tracking and managing patient data 
   <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" width="40">
   <img src="https://img.icons8.com/color/48/express-js.png" alt="Express.js" width="40">
   <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="40">
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="40">
   <img src="https://img.icons8.com/color/48/npm.png" alt="NPM" width="40">
   <img src="https://img.icons8.com/color/48/json.png" alt="JSON" width="40">
   <img src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="C++" width="40">
@@ -87,8 +84,7 @@ A web-based healthcare management system for tracking and managing patient data 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadkaif-sayyed&show_icons=true&theme=radical&hide_border=true" alt="Mohammad Kaif's GitHub Stats" width="48%" height="250">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadkaif-sayyed&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" height="250">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadkaif-sayyed&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%" height="250">
 </p>
 
 <p align="center">
