@@ -86,7 +86,7 @@ A web-based healthcare management system for tracking and managing patient data 
 ---
 
 ## 🌱 Currently Learning  
-- **Generative AI model fine-tuning**  
+- **Generative AI model**  
 - **Cloud Computing platforms (AWS, Azure)**
 
 ---
