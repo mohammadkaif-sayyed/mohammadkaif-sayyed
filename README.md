@@ -15,12 +15,22 @@
 <div align="center">
   <a href="mailto:mohd.k.sayyed@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>&nbsp;&nbsp;&nbsp; <!-- Adds space -->
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohammad-kaif-sayyed-1b6aba219">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>&nbsp;&nbsp;&nbsp; <!-- Adds space -->
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://mohammadkaif-sayyed.netlify.app/">
     <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+</div>
+
+---
+
+## 📄 Resume  
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/1iY29wcSV1UD_p0HYaPF4ydH3AT_vhN9d/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
   </a>
 </div>
 
