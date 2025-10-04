@@ -66,8 +66,8 @@ Clean, modular, and reusable components with an emphasis on:
 
 ## 📈 GitHub Analytics
 <p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadkaif-sayyed&theme=tokyonight&hide_border=true" width="400" height="200" style="object-fit: contain;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadkaif-sayyed&layout=compact&theme=tokyonight&hide_border=true" width="400" height="200" style="object-fit: contain;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadkaif-sayyed&theme=tokyonight&hide_border=true" width="600" height="200" style="object-fit: contain;">
+  
 </p>
 
 
