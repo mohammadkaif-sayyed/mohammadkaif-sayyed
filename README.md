@@ -1,87 +1,92 @@
-<h1 align="center">🚀 Mohammad Kaif — Full Stack Developer (MERN)</h1>
 
+
+# Hi — I’m Mohammad Kaif Sayyed 👋
+**Full Stack MERN Developer** • Pune, Maharashtra  
+📫 mohd.k.sayyed@gmail.com • 📱 +91 7620786331  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-kaif-sayyed-1b6aba219/) • 🔗 [Portfolio](https://mohammadkaif-sayyed.netlify.app/) • 🔗 [GitHub](https://github.com/mohammadkaif-sayyed)
+
+---
+
+## 🧭 About me
+- Full Stack developer focused on MERN stack with hands-on experience building production-ready apps, CI/CD and performance optimization.  [oai_citation:2‡MohammadKaif_Sayyed.pdf](sediment://file_0000000034d0720984188642f0dace0d)  
+- I enjoy converting ideas into scalable web apps — from architecture to deployment.  
+- Open to internships / full-time roles related to web and generative AI.
+
+---
+
+## 🚀 Highlights / Quick Wins
+- Implemented CI/CD pipelines and optimized DB queries, improving response & deployment times.  [oai_citation:3‡MohammadKaif_Sayyed.pdf](sediment://file_0000000034d0720984188642f0dace0d)  
+- Built a **GenAI-Powered Image Creation System** using OpenAI + MERN (server-side caching -> 30% faster responses).  [oai_citation:4‡MohammadKaif_Sayyed.pdf](sediment://file_0000000034d0720984188642f0dace0d)  
+- Built **MediTrack Admin** — Admin dashboard with Redux, charts, JWT auth, and UX optimizations.  [oai_citation:5‡MohammadKaif_Sayyed.pdf](sediment://file_0000000034d0720984188642f0dace0d)
+
+---
+
+## 🧰 Tech Stack
+**Languages:** JavaScript, Java, Python, C, C++  
+**Frontend:** React.js, Tailwind CSS, HTML, CSS  
+**Backend:** Node.js, Express.js, RESTful APIs  
+**Databases:** MongoDB, SQL  
+**Tools:** Git, CI/CD, Docker (if used), Postman
+
+---
+
+## 📊 GitHub Stats
+
+<!-- Profile stats cards (replace `mohammadkaif-sayyed` with your exact GitHub username) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-MERN%20Stack-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Clean%20Code-Enthusiast-ff69b4?style=for-the-badge">
+  <img alt="Mohammad's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mohammadkaif-sayyed&show_icons=true&include_all_commits=true&count_private=true&theme=default" />
+  &nbsp;
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadkaif-sayyed&layout=compact" />
 </p>
 
+<!-- Streak & Trophies -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Expert;Building+Smart+Web+Apps;Dynamic+Frontend+%26+Powerful+Backend" alt="Typing Animation">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadkaif-sayyed&theme=dark" />
+  &nbsp;
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=mohammadkaif-sayyed&theme=compact" />
 </p>
 
----
-
-## ⚡ About Me
-I’m a results-driven **Full Stack Developer** passionate about crafting dynamic, responsive applications with the **MERN stack**.  
-Bridging functionality and design, I create fast, scalable web solutions that solve real-world problems.
-
-- 💻 Focus: *High-performance frontend with secure, efficient backend APIs*
-- 🌐 Stack: *MongoDB · Express.js · React.js · Node.js*
-- 🎯 Goal: *To architect end-to-end digital solutions integrating modern design & AI-driven automation.*
+> Tip: If any of the images fail to load, double-check your GitHub username in the image URLs.
 
 ---
 
-## 💼 Highlighted Projects
+## 🔭 Featured Projects
+> Short card-style project listings — click to open the repo and demo (if available).
 
-### 🌍 SmartVision Portal
-AI-enhanced analytics dashboard built with MERN stack and RESTful APIs.  
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js, TailwindCSS  
-**Features:** Authentication, Data Visualization, JWT Security  
+### 1. GenAI-Powered Image Creation System
+**Stack:** MERN, OpenAI API, Server-side caching  
+- AI-driven image generation with image-sharing & caching (reduced API latency 30%).  
+- Repo: https://github.com/mohammadkaif-sayyed/AI-Image-Generator-Mern-GenAI  [oai_citation:6‡MohammadKaif_Sayyed.pdf](sediment://file_0000000034d0720984188642f0dace0d)
 
-### 💬 Talkify Chat
-Real-time chat app with socket-based communication and cloud integration.  
-**Tech Stack:** React.js, Node.js, Socket.io, MongoDB, AWS  
-**Features:** Live Messaging, User Presence, Image Sharing  
+### 2. MediTrack Admin
+**Stack:** MERN, Redux, JWT Auth  
+- Admin dashboard with charts, optimized rendering (20% faster) and secure auth.  
+- Repo: https://github.com/mohammadkaif-sayyed/MediTrack-Admin  [oai_citation:7‡MohammadKaif_Sayyed.pdf](sediment://file_0000000034d0720984188642f0dace0d)
 
----
-
-## 🛠 Tech Expertise
-<div align="center">
-
-| Frontend | Backend | Database | Tools & Others |
-|-----------|----------|-----------|----------------|
-| React.js, Redux, TailwindCSS, Next.js | Node.js, Express.js, REST APIs | MongoDB, MySQL | Postman, Docker, Git, NPM, AWS |
-
-</div>
+### 3. (Add more pinned projects)
+- Add two or three more repos you want to highlight — include a short one-line value statement each.
 
 ---
 
-## 🧠 Advanced Skills
-- **API Development & Integration** (RESTful, GraphQL)
-- **Authentication & Security** (JWT, OAuth2, bcrypt)
-- **Cloud Deployment** on AWS & Vercel
-- **Performance Optimization** (Code splitting, Lazy loading)
-- **Scalable Microservices Architecture**
+## 🏆 Achievements & Certifications
+- **Amrut Meritorious Scholarship** (2023–24).  [oai_citation:8‡MohammadKaif_Sayyed.pdf](sediment://file_0000000034d0720984188642f0dace0d)  
+- **2nd position in college** — Top 1% at university.  [oai_citation:9‡MohammadKaif_Sayyed.pdf](sediment://file_0000000034d0720984188642f0dace0d)  
+- **Outstanding Performer Award** at Sumago Infotech (recognized by CEO).  [oai_citation:10‡MohammadKaif_Sayyed.pdf](sediment://file_0000000034d0720984188642f0dace0d)  
+- **Core Java - Udemy** (Nov 2024).  [oai_citation:11‡MohammadKaif_Sayyed.pdf](sediment://file_0000000034d0720984188642f0dace0d)
 
 ---
 
-## 🧩 Design Philosophy
-Clean, modular, and reusable components with an emphasis on:
-- Minimal latency backend transactions
-- Intuitive UX crafted through design systems
-- Reusable React architecture following best practices
+## 💼 Experience (concise)
+**Full Stack Developer — Sumago Infotech** (Feb 2024 – May 2024)  
+- Improved DB performance (indexing & aggregation — 40% faster), fixed API issues (25% perf boost), and configured CI/CD.  [oai_citation:12‡MohammadKaif_Sayyed.pdf](sediment://file_0000000034d0720984188642f0dace0d)
 
 ---
 
-## 📈 GitHub Analytics
-<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadkaif-sayyed&theme=tokyonight&hide_border=true" width="600" height="200" style="object-fit: contain;">
-  
-</p>
-
-
-
+## 📫 Contact / Let's connect
+- Email: mohd.k.sayyed@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/mohammad-kaif-sayyed-1b6aba219/  
+- Portfolio: https://mohammadkaif-sayyed.netlify.app/  
+- Open to opportunities — internships or full-time roles in MERN & AI product teams.
 
 ---
 
-## 📫 Connect With Me
-<div align="center">
-  <a href="mailto:mohd.k.sayyed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/mohammad-kaif-sayyed-1b6aba219"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://mohammadkaif-sayyed.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-</div>
-
----
-
-⭐ *“Turning ideas into powerful, scalable web applications — one stack at a time.”*
