@@ -12,40 +12,7 @@
           <animate attributeName="stop-color" dur="6s" repeatCount="indefinite" values="#06b6d4;#4f46e5;#7c3aed;#06b6d4"/>
         </stop>
       </linearGradient>
-
-      <filter id="f1" x="-50%" y="-50%" width="200%" height="200%">
-        <feGaussianBlur stdDeviation="18" result="b"/>
-        <feBlend in="SourceGraphic" in2="b"/>
-      </filter>
     </defs>
-
-    <!-- background gradient -->
-    <rect width="100%" height="100%" fill="url(#g1)"/>
-
-    <!-- animated soft circles -->
-    <g filter="url(#f1)" opacity="0.35">
-      <circle cx="160" cy="40" r="40" fill="#ffffff">
-        <animate attributeName="cx" dur="12s" values="60;300;160" repeatCount="indefinite"/>
-        <animate attributeName="cy" dur="9s" values="30;80;40" repeatCount="indefinite"/>
-        <animate attributeName="r" dur="10s" values="30;50;40" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="420" cy="90" r="30" fill="#ffffff">
-        <animate attributeName="cx" dur="14s" values="420;800;420" repeatCount="indefinite"/>
-        <animate attributeName="cy" dur="11s" values="90;30;90" repeatCount="indefinite"/>
-        <animate attributeName="r" dur="12s" values="20;45;30" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="980" cy="50" r="35" fill="#ffffff">
-        <animate attributeName="cx" dur="13s" values="980;700;980" repeatCount="indefinite"/>
-        <animate attributeName="cy" dur="8s" values="50;100;50" repeatCount="indefinite"/>
-        <animate attributeName="r" dur="9s" values="35;25;35" repeatCount="indefinite"/>
-      </circle>
-    </g>
-
-    <!-- headline text -->
-    <g fill="#ffffff" font-family="Inter, Arial, sans-serif" font-weight="700" text-anchor="middle">
-      <text x="50%" y="52" font-size="28">Mohammad Kaif Sayyed</text>
-      <text x="50%" y="94" font-size="14" opacity="0.95">Full-Stack • MERN • AI-Powered Web Apps</text>
-    </g>
   </svg>
 </p>
 
