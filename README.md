@@ -1,7 +1,5 @@
-<!-- 🚀 Advanced Animated GitHub Profile README for Mohammad Kaif Sayyed -->
-<!-- Animated SVG Banner (replaces capsule-render) -->
-<p align="center">
-  <!-- Inline animated SVG banner: animated gradient + subtle moving circles -->
+
+<div align="center">
   <svg width="100%" height="140" viewBox="0 0 1200 140" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated header">
     <defs>
       <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -13,119 +11,110 @@
         </stop>
       </linearGradient>
     </defs>
+    <rect width="100%" height="100%" fill="url(#g1)" rx="15" ry="15" />
   </svg>
-</p>
 
-<!-- Typing Animation Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=ffffff&background=00000000&center=true&vCenter=true&width=820&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammad+Kaif+Sayyed!;Full+Stack+Developer+%7C+MERN+Stack+Specialist;Building+Scalable+%26+AI-Powered+Web+Apps" alt="Typing SVG" />
-</p>
+  <br/><br/>
 
-<!-- Contact Badges (centered, high-contrast) -->
-<p align="center">
-  <a href="mailto:mohd.k.sayyed@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammad-kaif-sayyed-1b6aba219/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=820&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammad+Kaif+Sayyed!;Full+Stack+Developer+%7C+MERN+Specialist;Building+Scalable+%26+AI-Powered+Web+Apps;Welcome+to+my+GitHub+Workspace!" alt="Typing SVG" />
+
+  <br/>
+
+  <p align="center">
+    <a href="mailto:mohd.k.sayyed@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+    <a href="https://www.linkedin.com/in/mohammad-kaif-sayyed-1b6aba219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+    <a href="https://github.com/mohammadkaif-sayyed"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+    <a href="https://mohammadkaif-sayyed.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
+  </p>
+</div>
+
+<br/>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h2 align="left">⚡ Who Am I?</h2>
+      <ul>
+        <li>💻 <b>Role:</b> Full Stack Developer specializing in the <b>MERN Stack</b> (MongoDB, Express, React, Node).</li>
+        <li>🤖 <b>Niche:</b> Integrating <b>GenAI capabilities</b> (OpenAI) into modern web apps for dynamic, intelligent user experiences.</li>
+        <li>⚙️ <b>Focus:</b> Clean architecture, performance optimization, and building highly scalable, RESTful systems.</li>
+        <li>🌱 <b>Currently exploring:</b> Advanced CI/CD pipelines, MongoDB aggregation optimization, and Cloud deployments.</li>
+      </ul>
+      <h2 align="left">🏆 Milestones</h2>
+      <ul>
+        <li>🥇 <b>Outstanding Performer Award</b> — Sumago Infotech (CEO recognition)</li>
+        <li>🏅 <b>Top 1%</b> (University) • 2nd Rank in College</li>
+        <li>🎓 <b>Amrut Meritorious Scholarship</b> 2023-24</li>
+        <li>🧾 <b>Core Java Certification</b> (Udemy, Nov 2024)</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+      <h2 align="left">🛠️ Tech Arsenal</h2>
+      <p align="left"><b>Frontend</b></p>
+      <p align="left"><img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js&theme=dark" alt="frontend icons" /></p>
+      <p align="left"><b>Backend & Database</b></p>
+      <p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java&theme=dark" alt="backend icons" /></p>
+      <p align="left"><b>Tools & DevOps</b></p>
+      <p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="tools icons" /></p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖼️ <a href="https://github.com/mohammadkaif-sayyed/AI-Image-Generator-Mern-GenAI">GenAI Image System</a></h3>
+      <p><i>MERN + OpenAI API application for dynamic image generation.</i></p>
+      <ul>
+        <li>Integrated OpenAI API for high-quality text-to-image generation.</li>
+        <li>Implemented server-side caching, resulting in <b>30% lower API latency</b>.</li>
+        <li>Built robust social and sharing features to boost user engagement.</li>
+      </ul>
+      <a href="https://github.com/mohammadkaif-sayyed/AI-Image-Generator-Mern-GenAI"><img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💊 <a href="https://github.com/mohammadkaif-sayyed/MediTrack-Admin">MediTrack Admin Dashboard</a></h3>
+      <p><i>Comprehensive MERN Admin panel for healthcare data.</i></p>
+      <ul>
+        <li>Engineered secure JWT authentication and role-based access control.</li>
+        <li>Developed interactive, real-time charts and tables for data analytics.</li>
+        <li>Optimized Redux state management flows, achieving <b>20% faster UI rendering</b>.</li>
+      </ul>
+      <a href="https://github.com/mohammadkaif-sayyed/MediTrack-Admin"><img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <a href="https://github.com/mohammadkaif-sayyed">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohammadkaif-sayyed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/mohammadkaif-sayyed">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadkaif-sayyed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
   </a>
-  <a href="https://mohammadkaif-sayyed.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+  <br/><br/>
+  <a href="https://github.com/mohammadkaif-sayyed">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadkaif-sayyed&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" alt="Activity Graph" width="97%" />
   </a>
-</p>
+</div>
 
----
+<br/>
 
-### 🧠 About Me
-- 💻 I’m a **Full Stack Developer** specialized in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.  
-- 🤖 I integrate **AI capabilities** (OpenAI) into web apps for creative and practical features.  
-- ⚙️ I focus on **performance optimization**, **scalable systems**, and **clean architecture**.  
-- 🚀 Experienced with **CI/CD**, MongoDB optimization, and team-driven Agile workflows.
+<div align="center">
+  <blockquote>
+    <p>💡 <i>"Clean architecture is not just a choice — it’s a mindset for scalable innovation."</i></p>
+  </blockquote>
+  
+  <p>Looking for collaborations, open-source work, or AI-driven solutions? <b><a href="mailto:mohd.k.sayyed@gmail.com">Let's connect!</a></b></p>
 
----
-
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,git,github,vscode,postman,java&theme=dark" alt="tech icons" />
-</p>
-
----
-
-### 💼 Featured Projects
-
-#### 🖼️ [GenAI-Powered Image Creation System](https://github.com/mohammadkaif-sayyed/AI-Image-Generator-Mern-GenAI)
-> MERN + OpenAI API app for dynamic image generation from prompts.  
-- Integrated OpenAI for AI-image generation.  
-- Server-side caching → **30% lower API latency**.  
-- Social & share features to increase user engagement.
-
-#### 💊 [MediTrack Admin Dashboard](https://github.com/mohammadkaif-sayyed/MediTrack-Admin)
-> MERN Admin panel for healthcare data tasks.  
-- Secure JWT authentication & role access.  
-- Interactive charts & tables for analytics.  
-- Optimized Redux flows → **20% faster UI rendering**.
-
----
-
-### 🧰 Tools & Best Practices
-- **Version Control:** Git, GitHub Actions  
-- **Deployment:** Netlify • Render • Vercel  
-- **DB Optimization:** Indexing • Aggregation • Caching  
-- **Architecture:** Modular • RESTful • Scalable  
-- **Workflow:** Agile • CI/CD • Code Reviews
-
----
-
-### 🏆 Achievements
-- 🥇 Outstanding Performer Award — Sumago Infotech (CEO recognition)  
-- 🏅 Top 1% (University) • 2nd Rank in College  
-- 🎓 Amrut Meritorious Scholarship 2023-24  
-- 🧾 Core Java Certification (Udemy, Nov 2024)
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <!-- Keep only one stats card (dynamic) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadkaif-sayyed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="github stats" />
-</p>
-
----
-
-### 📈 Activity (Animated-like visual)
-<p align="center">
-  <!-- Activity graph (keeps the dynamic contribution view) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadkaif-sayyed&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
-</p>
-
----
-
-### ✨ Interactive Project Cards (animated micro-badges)
-<p align="center">
-  <!-- micro animated badges that suggest interactivity -->
-  <img src="https://img.shields.io/badge/Live-GenAI%20Image-blue?style=for-the-badge&logo=appveyor&logoColor=white" alt="live genai" />
-  <img src="https://img.shields.io/badge/Code-MediTrack%20Admin-9cf?style=for-the-badge&logo=github&logoColor=white" alt="meditrack code" />
-  <img src="https://img.shields.io/badge/CI/CD-Pipelines-orange?style=for-the-badge&logo=githubactions&logoColor=white" alt="cicd" />
-</p>
-
----
-
-### 🧠 Fun Fact
-> “Clean architecture is not just a choice — it’s a mindset for scalable innovation.”
-
----
-
-### 📨 Let's Connect
-💬 Reach out for collaborations, open-source work, or AI-driven solutions.  
-📧 [mohd.k.sayyed@gmail.com](mailto:mohd.k.sayyed@gmail.com)
-
----
-
-<!-- footer animated subtle wave using same gradient concept (SVG) -->
-<p align="center">
   <svg width="100%" height="70" viewBox="0 0 1200 70" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
     <defs>
       <linearGradient id="g2" x1="0" x2="1">
@@ -143,6 +132,4 @@
         " />
     </path>
   </svg>
-</p>
-
-⭐ **_“Code. Build. Optimize. Repeat.”_**
+</div>
